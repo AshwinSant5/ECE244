@@ -1,0 +1,6 @@
+circle c1 1 1 250
+circle c2 -1.14 4 300
+rectangle r1 1.419 3.4193 1.45 2.999
+rectangle r2 1.0 3 999.99 1.2
+area
+draw
